@@ -32,7 +32,7 @@ You can view the back-end repository [here](https://github.com/direakanbi/hello-
 Start by cloning the repository.
 
 ```
-git clone git@github.com:oluyaratosin123/Hello-React-Front-End.git
+git clone git@github.com:direakanbi/Hello-React-Front-End.git
 ```
 
 Navigate to the created folder.
